@@ -1,0 +1,6 @@
+.env
+.idea/*
+src/__pycache__/*
+m365bot/ErrorsChecking.py
+m365bot/__pycache__/*
+m365bot/configurations/config.json

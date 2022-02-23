@@ -1,0 +1,7 @@
+telepot==12.7
+requests==2.26.0
+python-dateutil==2.8.2
+html_telegraph_poster==0.4.0
+python-dotenv
+azure-identity
+azure-keyvault-secrets

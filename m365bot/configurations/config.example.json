@@ -1,0 +1,24 @@
+{
+    "main": {
+        "check_time_delta_minutes": 30
+    },
+    "graph": {
+        "client_id": "",
+        "tenant_id": ""
+    },
+    "telegram": {
+        "prod_chat_id": "",
+        "test_chat_id": "",
+        "errors_handler_chat_id": ""
+    },
+    "azure_keyvault": {
+        "keyvault_name": "",
+        "tg_token_secret": "",
+        "client_secret": "",
+        "tg_errors_token_secret": ""
+    },
+    "secrets_manager": {
+        "client_id": "",
+        "tenant_id": ""
+    }
+}
